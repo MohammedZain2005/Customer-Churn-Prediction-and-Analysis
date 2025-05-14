@@ -1,5 +1,5 @@
 
-# Final Report: Churn Prediction for Hotel Reservations
+# Churn Prediction for Hotel Reservations
 
 ## 1. Problem Definition
 The objective of this project was to predict booking cancellations (churn) in a hotel reservation system. Accurately identifying at-risk bookings enables hotel managers to take proactive measures—such as offering discounts, sending reminders, or adjusting pricing strategies. By reducing cancellations, the hotel can improve customer retention, optimize resources, and increase overall revenue.
