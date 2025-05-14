@@ -105,6 +105,18 @@ The next steps include continuously monitoring the model's performance in produc
 
 ---
 
+# Hotel Booking Status Predictor
+
+[Visit the Hotel Booking Status Predictor](https://georgtawadrous-hotelbookingstatuspredictor.hf.space/)
+
+This is a link to a web application hosted on Hugging Face Spaces, created by Georg Tawardrous. The application is designed to predict hotel booking statuses, likely using machine learning or data analysis techniques. For more details, you can explore the application directly via the provided link.
+
+# Hotel Booking Status Predictor - GitHub Repository
+
+[Visit the Hotel Booking Status Predictor GitHub Repository](https://github.com/the3miaphysite3engineer3/HotelBookingStatusPredictor)
+
+This is a link to the GitHub repository for the Hotel Booking Status Predictor, maintained by the3miaphysite3engineer3. The repository likely contains the source code, documentation, and related files for the hotel booking status prediction application. For more details, you can explore the repository directly via the provided link.
+
 ### **Project Contributors:**
 This project was developed by the following team members:
 - **Mohammed Ahmed Mohammed Abdul-Aziz**  
